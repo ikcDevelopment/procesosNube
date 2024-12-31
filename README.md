@@ -1,3 +1,9 @@
+Juan Estuardo Wyss
+Kappa Computacion
+Procesos en la nube
+Contabilidad en la nube
+Mundo Robot
+
 For the last 3 years, I have focused on reengineering applications based on JSP, Java 8, JQuery and Bootstrap, to modern frameworks to speed up and enhance their results. 	 
 
 I have been working on two interrelated applications: agricultural accounting, traceability and food safety; under the software as a service modality.  
